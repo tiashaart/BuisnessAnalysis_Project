@@ -1,2 +1,2 @@
-# UIMS_Project
-University_Internship_Management_System
+# BA_Project
+University_Internship_Management_System Business Analysis
